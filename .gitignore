@@ -4,9 +4,12 @@ node_modules
 /.svelte-kit
 /package
 .env
-.env.*
+.env.sanity
 !.env.example
 .vercel
 .output
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+/sanity/.pnpm-store
+/sanity/node_modules
+/sanity/.sanity
